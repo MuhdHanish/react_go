@@ -83,7 +83,7 @@ Temporary Items
 
 # Temporary files
 .DS_Store
-temp
+tmp
 
 # Environment variables
 .env
