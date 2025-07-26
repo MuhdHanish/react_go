@@ -1,10 +1,10 @@
-# TaskFlow - Full Stack Todo Application
+# ReactGo Todo - Full Stack Todo Application
 
 A modern, full-stack todo application featuring a sleek React frontend with a robust Go Fiber + MongoDB backend API.
 
 ## 🌟 Overview
 
-TaskFlow combines a beautiful, animated React frontend with a powerful Go Fiber backend to deliver a premium task management experience. The application features real-time updates, smooth animations, and professional design aesthetics.
+ReactGo Todo combines a beautiful, animated React frontend with a powerful Go Fiber backend to deliver a premium task management experience. The application features real-time updates, smooth animations, and professional design aesthetics.
 
 ## 🚀 Features
 
@@ -140,7 +140,7 @@ react_go/
 ## 🎨 Frontend Features
 
 ### UI Components
-- **TaskFlow Header** - Animated logo with gradient effects
+- **ReactGo Header** - Animated logo with gradient effects
 - **Stats Dashboard** - Real-time metrics with hover animations
 - **Task Input** - Elegant input field with focus effects
 - **Task List** - Animated task items with smooth interactions
@@ -385,4 +385,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Lucide](https://lucide.dev/) - Icon library
 
 ⭐ If you found this project helpful, please give it a star!
-
